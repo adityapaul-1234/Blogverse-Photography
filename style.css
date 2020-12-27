@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient( #00eeff 0%, #ae00ff 100%);
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: orangered;
+}
+
+div{
+    margin-top: 15px;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+    border-style: ridge;
+    font-family: 'Lobster';
+}
+
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    width: auto;
+}
+
+img{
+    height: 400px;
+    width: auto;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 50px;
+}
+
+p{
+    color: chartreuse;
+    background: black;
+}
+
+h2{
+    font-size: 15px;
+    color: crimson
+}
+
+
+
